@@ -51,7 +51,7 @@ Core Strengths
 </td>
 <td width="40%">
 
-<img alt="Developer Illustration" width="100%" src="C:\Users\visha\Downloads\gitprofile.gif">
+<img alt="Developer Illustration" width="100%" src="(https://in.images.search.yahoo.com/search/images;_ylt=AwrKBPk7Xm5pmS4JwVW9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANuSmlVeVprM1FfNlByNHAyeHp4N0tBBG5fcnNsdAMwBG5fc3VnZwM5BG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMjAEcXVlcnkDYW55JTIwZ2lmJTIwb2YlMjBkZXZsb3BlcnMEdF9zdG1wAzE3Njg4NDA3OTk-?p=any+gif+of+devlopers&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN885G0#id=1&iurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&action=click)">
 
 </td>
 </tr>
