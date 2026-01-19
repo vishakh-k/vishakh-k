@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=36&fontColor=fff&animation=twinkling)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=twinkling)
 
 </div>
 
@@ -10,38 +10,53 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Web+Applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&height=80&lines=Aspiring+DevOps+Engineer+🚀;MERN+Stack+Developer+💻;Cloud+%7C+CI%2FCD+%7C+Automation+⚙️;Building+Scalable+Systems+📈)
 
 </div>
 
 ---
 
-## 💼 Professional Profile
+## 💼 **Professional Profile**
+
+<table>
+<tr>
+<td width="60%">
 
 ```ts
 const vishakh = {
-  name: "Vishakh K T",
-  role: "Full Stack Web Developer",
-  location: "India",
-  techStack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-  focus: "Building scalable and production-ready web applications",
-  mindset: "Consistency, clean code, and continuous improvement"
+  role: "Aspiring DevOps Engineer",
+  location: "Mangaluru, Karnataka, India",
+  skills: [
+    "DevOps & Cloud Fundamentals",
+    "CI/CD & Automation",
+    "MERN Stack Development",
+    "Backend Systems",
+    "Basic Machine Learning"
+  ],
+  learning: "Docker, Kubernetes, Linux, Jenkins, Cloud",
+  goal: "Fresher DevOps Engineer Role"
 };
 Core Strengths
-⚙️ MERN Stack Development
+⚙️ DevOps tools & workflows
 
-🎨 Responsive UI with Tailwind CSS
+🚀 CI/CD pipelines & automation
 
-🔐 Authentication & CRUD-based apps
+🌐 Full-stack MERN development
 
-🚀 Deployed real-world projects
+☁️ Cloud fundamentals (AWS / GCP)
 
-🛠️ Tech Stack
+🧠 Problem-solving with DSA basics
+
+</td> <td width="40%"> <img width="100%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"> </td> </tr> </table>
+🛠️ Technical Skills
+<div align="center">
 Languages
 
 
-Frontend
 
+
+
+Frontend
 
 
 
@@ -51,77 +66,196 @@ Backend & Database
 
 
 
-Tools & Deployment
+
+DevOps & Cloud
 
 
 
 
+
+
+</div>
 🚀 Featured Projects
-🧠 Solveathon 1.0
-🔗 https://solveathon1-0.vercel.app/
+🎉 Excel 5.0 – National Level Tech Fest 2026
+Interactive Stranger Things themed event website
 
-Description
-A web-based platform designed for structured problem solving and event workflows.
+Firebase-based registrations & admin dashboard
 
-Tech Used
+Excel export using SheetJS
 
-React
+Tech: HTML CSS JavaScript Firebase
 
-Tailwind CSS
+🧠 Solve-A-Thon 1.0 – National Hackathon Platform
+Full-stack hackathon portal with admin controls
 
-JavaScript
+Secure authentication & team registration
 
-Vercel
+MongoDB + Express backend
 
-📊 Excel 5.0
-🔗 https://excel-5-0.vercel.app/
+Tech: Node.js Express MongoDB GSAP
 
-Description
-A productivity-focused frontend application inspired by Excel-style data handling.
+🎨 Imagify
+AI-powered image generation from user prompts
 
-Tech Used
+Clean UI with prompt-based rendering
 
-React
+🤖 IoT Humanoid Biped Robot
+Arduino-based humanoid robot
 
-JavaScript
+6 servo motors with basic motion control
 
-Tailwind CSS
-
-🌐 Personal Portfolio
-🔗 https://vk-rho.vercel.app/
-
-Description
-A central portfolio showcasing projects, skills, and profile details.
-
-Tech Used
-
-React
-
-Tailwind CSS
-
-Vercel
+Components: Arduino, Servo Motors, Breadboard
 
 📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+<div align="center">
+
+
+</div>
 🤝 Connect With Me
 <div align="center">
 
 
 
-</div>
-⭐ Focused on building solid, real-world applications ⭐
 
+</div>
+<div align="center">
+⭐ Open to DevOps Fresher Opportunities & Collaborations ⭐
+
+
+</div> ```
+✅ What I fixed
+Clean DevOps-first branding
+
+Removed clutter, kept recruiter-friendly
+
+Real projects only (no fake padding)
+
+Fully Markdown executable
+
+Matches Adithya B R visual style
+
+If you want:
+
+Dark red theme (Excel 5.0 style)
+
+Ultra-minimal DevOps-only version
+
+Resume-aligned GitHub profile
+
+Say it.
+
+You said:
+everthing in code only
+ChatGPT said:
+# 👨‍💻 Vishakh K T
+
+<div align="center">
+
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=twinkling)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&height=80&lines=Aspiring+DevOps+Engineer+🚀;MERN+Stack+Developer+💻;Cloud+%7C+CI%2FCD+%7C+Automation+⚙️;Building+Scalable+Systems+📈)
+
+</div>
 
 ---
 
-### Next quick fixes you should do
-- Replace `YOUR_GITHUB_USERNAME`
-- Add LinkedIn URL
-- Optional: add **screenshots** of Solveathon & Excel 5.0
+## 💼 Professional Profile
 
-If you want, I can:
-- Tune this for **placements**
-- Make it **ATS-friendly**
-- Convert it into a **resume + LinkedIn About**
+<table>
+<tr>
+<td width="60%">
 
-Say the word.
+```ts
+const vishakh = {
+  name: "Vishakh K T",
+  role: "Aspiring DevOps Engineer",
+  location: "Mangaluru, Karnataka, India",
+  skills: [
+    "DevOps Fundamentals",
+    "CI/CD Pipelines",
+    "Docker & Kubernetes",
+    "Linux Administration",
+    "MERN Stack Development",
+    "Backend Systems",
+    "Basic Machine Learning"
+  ],
+  languages: ["JavaScript", "Python", "Java", "C"],
+  goal: "Fresher DevOps Engineer Role"
+};
+Core Strengths
+⚙️ DevOps tools & workflows
+
+🚀 CI/CD automation
+
+☁️ Cloud fundamentals
+
+🌐 Full-stack MERN development
+
+</td> <td width="40%"> <img width="100%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"> </td> </tr> </table>
+🛠️ Technical Skills
+<div align="center">
+Languages
+
+
+
+
+
+DevOps & Cloud
+
+
+
+
+
+
+Frontend & Backend
+
+
+
+
+
+
+</div>
+🚀 Featured Projects
+🎉 Excel 5.0 – National Level Tech Fest 2026
+Stranger Things themed interactive website
+
+Firebase-based registrations & admin dashboard
+
+Excel export using SheetJS
+
+🧠 Solve-A-Thon 1.0 – National Hackathon Platform
+Full-stack event management system
+
+Secure authentication & admin controls
+
+MongoDB + Express backend
+
+🎨 Imagify
+AI-based image generation from user prompts
+
+🤖 IoT Humanoid Biped Robot
+Arduino-based humanoid robot with 6 servo motors
+
+📊 GitHub Stats
+<div align="center">
+
+
+</div>
+🤝 Connect With Me
+<div align="center">
+
+
+
+
+</div>
+<div align="center">
+⭐ Open to DevOps Fresher Roles & Collaborations ⭐
+
+
+</div>
