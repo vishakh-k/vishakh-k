@@ -119,27 +119,14 @@ const vishakh = {
 
 ## 🚀 Featured Projects
 
-### 🎉 Excel 5.0 – National Level Tech Fest 2026
-> **Stranger Things themed interactive event website**
-- **Tech:** HTML, CSS, JavaScript, Firebase
-- **Features:** Real-time registrations, Clean Admin Dashboard, Excel export (SheetJS)
-- **Role:** Full Stack Developer
-
-### 🧠 Solve-A-Thon 1.0 – National Hackathon Platform
-> **Comprehensive hackathon management portal**
-- **Tech:** Node.js, Express, MongoDB, GSAP
-- **Features:** Secure Team Authentication, Registration Management, Admin Controls
-- **Role:** Backend & Database Architect
-
-### 🎨 Imagify
-> **AI-powered Image Generation Tool**
-- **Features:** Text-to-Image generation, Clean UI
-- **Tech:** React, OpenAI API (or stable diffusion), Node.js
-
-### 🤖 IoT Humanoid Biped Robot
-> **Arduino-based robotics project**
-- **Hardware:** Arduino, 6 Servo Motors
-- **Functionality:** Basic bipedal motion and balance control
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🎉 Excel 5.0** | **National Level Tech Fest 2026**<br>Stranger Things themed interactive event website.<br>• Real-time registrations<br>• Clean Admin Dashboard<br>• Excel export (SheetJS) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) | [Live Demo](https://excel-5-0.vercel.app/) |
+| **🧠 Solve-A-Thon 1.0** | **National Hackathon Platform**<br>Comprehensive hackathon management portal.<br>• Secure Team Authentication<br>• Registration Management<br>• Admin Controls | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) | [Live Demo](https://solveathon1-0.vercel.app/) |
+| **🎨 Imagify** | **AI-powered Image Generation Tool**<br>Text-to-Image generation with a clean UI.<br>• Clean UI / UX<br>• AI Integration | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | [Live Demo](https://imagify-frontend-ssxx.onrender.com/) |
+| **🤖 IoT Humanoid Robot** | **Arduino-based Biped Robot**<br>• 6 Servo Motors<br>• Basic Motion & Balance Control | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | *Hardware* |
+| **👨‍💻 Personal Portfolio** | **Modern Developer Portfolio**<br>Showcasing skills, projects, and professional experience. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | *In Progress* |
+| **📊 Social Media Analytics** | **Analytics Dashboard**<br>Tracking and visualization of social media metrics. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white) | *In Progress* |
 
 <br>
 
