@@ -46,7 +46,7 @@ const vishakh = {
 </td>
 <td width="40%" valign="center">
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/248906967-34708303-3486-444f-a9db-702334812674.gif" width="100%" alt="Coding Animation">
+<img src="assets/gitprofile.gif" width="100%" alt="Coding Animation">
 </div>
 </td>
 </tr>
