@@ -125,8 +125,8 @@ const vishakh = {
 | **🧠 Solve-A-Thon 1.0** | **National Hackathon Platform**<br>Comprehensive hackathon management portal.<br>• Secure Team Authentication<br>• Registration Management<br>• Admin Controls | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) | [Live Demo](https://solveathon1-0.vercel.app/) |
 | **🎨 Imagify** | **AI-powered Image Generation Tool**<br>Text-to-Image generation with a clean UI.<br>• Clean UI / UX<br>• AI Integration | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | [Live Demo](https://imagify-frontend-ssxx.onrender.com/) |
 | **🤖 IoT Humanoid Robot** | **Arduino-based Biped Robot**<br>• 6 Servo Motors<br>• Basic Motion & Balance Control | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | *Hardware* |
-| **👨‍💻 Personal Portfolio** | **Modern Developer Portfolio**<br>Showcasing skills, projects, and professional experience. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | *In Progress* |
-| **📊 Social Media Analytics** | **Analytics Dashboard**<br>Tracking and visualization of social media metrics. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white) | *In Progress* |
+| **👨‍💻 Personal Portfolio** | **Modern Developer Portfolio**<br>Showcasing skills, projects, and professional experience. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | *Completed* |
+| **📊 AI Instagram Analytics** | **AI Driven Social Insights**<br>Instagram analytics using ML models (Vader Sentiment Analysis) & NLTK preprocessing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square) ![Machine Learning](https://img.shields.io/badge/ML-F7931E?style=flat-square) | *Completed* |
 
 <br>
 
@@ -134,7 +134,11 @@ const vishakh = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishakh-k&show_icons=true&theme=radical&hide_border=true" alt="Vishakh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-k&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-k&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vishakh-k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br>
