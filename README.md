@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br>
 
 ## 💼 **Professional Profile**
 
@@ -47,27 +47,20 @@ Core Strengths
 
 🧠 Problem-solving with DSA basics
 
-</td> <td width="40%"> <img width="100%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"> </td> </tr> </table>
-🛠️ Technical Skills
-<div align="center">
-Languages
+</td>
+<td width="40%">
+
+<img alt="Developer Illustration" width="100%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+
+</td>
+</tr>
+</table>
+
+<br>
 
 
 
 
-
-Frontend
-
-
-
-
-Backend & Database
-
-
-
-
-
-DevOps & Cloud
 
 
 
