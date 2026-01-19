@@ -51,7 +51,7 @@ Core Strengths
 </td>
 <td width="40%">
 
-<img alt="Developer Illustration" width="100%" src="https://in.pinterest.com/pin/4925880832717068/">
+<img alt="Developer Illustration" width="100%" src="C:\Users\visha\Downloads\gitprofile.gif">
 
 </td>
 </tr>
