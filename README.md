@@ -134,7 +134,7 @@ const vishakh = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishakh-k&show_icons=true&theme=radical&hide_border=true" alt="Vishakh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-k&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vishakh-k&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-k&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br>
