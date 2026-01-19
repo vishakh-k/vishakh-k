@@ -36,6 +36,7 @@ const vishakh = {
   learning: "Docker, Kubernetes, Linux, Jenkins, Cloud",
   goal: "Fresher DevOps Engineer Role"
 };
+```
 Core Strengths
 ⚙️ DevOps tools & workflows
 
