@@ -156,5 +156,5 @@ const vishakh = {
 
 <div align="center">
   <br>
-  <b>⭐ Open to DevOps Fresher Roles & Collaborations ⭐</b>
+  <b>⭐ Open to DevOps Fresher Roles & Collaboration ⭐</b>
 </div>
