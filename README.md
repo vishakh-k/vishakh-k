@@ -46,7 +46,7 @@ const vishakh = {
 </td>
 <td width="40%" valign="center">
 <div align="center">
-<img src="https://media1.tenor.com/m/QWB9MQaMVKMAAAAC/cat-type.gif" width="100%" alt="Cat Coding Animation">
+<img src="https://media1.tenor.com/m/QWB9MQaMVKMAAAAC/cat-ype.gif" width="100%" alt="Cat Coding Animation">
 </div>
 </td>
 </tr>
